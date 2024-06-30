@@ -1,10 +1,11 @@
 # My Data Analysis work 
 
 ## Overview
-This repository contains an analysis of the top 500 soccer players in terms of goals scored. The data for this analysis is sourced from Kaggle. The project includes various visualizations to explore the data.
+This repository contains an analysis of the top 500 football players in terms of goals scored. The data for this analysis is sourced from Kaggle. The project includes various visualizations to explore the data.
 
 ## Data
-The dataset is obtained from Kaggle and includes metrics related to the top 500 goal scorers in soccer.
+The dataset is obtained from Kaggle and includes metrics related to the top 500 goal scorers in football.   
+
 The Kaggle link - [https://raw.githubusercontent.com/JourdanGY/Uni_datasets/main/players](https://www.kaggle.com/datasets/sanjeetsinghnaik/most-expensive-footballers-2021)
 
 ## Visualizations
