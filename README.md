@@ -1,7 +1,7 @@
 # My Data Analysis work 
 
 ## Overview
-This repository contains an analysis of the top 500 football players in terms of goals scored. The data for this analysis is sourced from Kaggle. The project includes various visualizations to explore the data.
+This repository contains an analysis of the top 500 football players in terms of goals scored. The data for this analysis is sourced from Kaggle. The project includes various visualizations to explore the data. 
 
 ## Data
 The dataset is obtained from Kaggle and includes the 2021 Football statistics with performance of over 500 players in leagues like the Premier League, Champions League, Laliga, Bundesliga, MLS and many more. It has mains statistics ranging from "Number of Goals" to the "Market Value in millions" for each player during the 2021 season. I reason I chose this dataset is because I love the variety of football teams we have and there is something special about exploring the different teams and their performances. The feeling of watching a player score a goal is just pure joy that always keep me entertained.  
@@ -34,7 +34,8 @@ To view the analysis:
    - Follow the instructions within the notebook to run each cell.
 
 ## Contact
-For questions or suggestions, please reach out:
+For questions or suggestions, please reach out: 
 
 - **Email:** [jourdan.tgy@gmail.com]
 - **LinkedIn:** [www.linkedin.com/in/jourdan-tan-]
+
