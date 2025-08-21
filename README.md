@@ -38,4 +38,4 @@ For questions or suggestions, please reach out:
 
 - **Email:** [jourdan.tgy@gmail.com]
 - **LinkedIn:** [www.linkedin.com/in/jourdan-tan-]
-
+-. 
